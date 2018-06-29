@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9174152-2f65-4e9e-91f2-d2b2c060c245" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droid_serif.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bold_macroman/DroidSerif-Bold-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bold_macroman/DroidSerif-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bold_macroman/DroidSerif-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bold_macroman/DroidSerif-Bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bold_macroman/DroidSerif-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bolditalic_macroman/DroidSerif-BoldItalic-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bolditalic_macroman/DroidSerif-BoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bolditalic_macroman/DroidSerif-BoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bolditalic_macroman/DroidSerif-BoldItalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_bolditalic_macroman/DroidSerif-BoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_italic_macroman/DroidSerif-Italic-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_italic_macroman/DroidSerif-Italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_italic_macroman/DroidSerif-Italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_italic_macroman/DroidSerif-Italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_italic_macroman/DroidSerif-Italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_regular_macroman/DroidSerif-Regular-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_regular_macroman/DroidSerif-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_regular_macroman/DroidSerif-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_regular_macroman/DroidSerif-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/fonts/droid_serif/droidserif_regular_macroman/DroidSerif-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/images/ecommerce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/images/responsive-web.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden-template/images/web-security.svg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/golden-template/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+              <folding>
+                <element signature="n#li#0;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web-security.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/golden-template/images/web-security.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/golden-template/styles/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="123" column="20" lean-forward="true" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="droid_serif.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid_serif/droid_serif.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/stylesheet.css" />
+        <option value="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/droid_serif.css" />
+        <option value="$PROJECT_DIR$/golden-template/styles/style.css" />
+        <option value="$PROJECT_DIR$/golden-template/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="golden-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="golden-template" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/golden-template/images" />
+      <recent name="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/golden-template/fonts" />
+      <recent name="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts" />
+      <recent name="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit" />
+      <recent name="$PROJECT_DIR$/golden-template/images" />
+      <recent name="$PROJECT_DIR$/golden-template/styles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9174152-2f65-4e9e-91f2-d2b2c060c245" name="Default" comment="" />
+      <created>1530252886342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530252886342</updated>
+      <workItem from="1530252889142" duration="3307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3307000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/droidserif_bold_macroman/specimen_files/grid_12-825-55-15.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/images/ecommerce.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid_serif/droid_serif.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/images/responsive-web.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="123" column="20" lean-forward="true" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/images/web-security.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

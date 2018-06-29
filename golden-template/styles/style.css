@@ -1,0 +1,197 @@
+/********
+* GLOBAL
+********/
+body {
+	font-family: Montserrat, serif;
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Droid Serif", sans-serif;
+}
+
+/********
+* HEADER
+********/
+.header {
+	height: 700px;
+	background: url(../images/backgroung-header.png) no-repeat;
+	background-size: cover;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.header:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, .5);
+	z-index: 0;
+}
+
+.container {
+	max-width: 1440px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 0 auto;
+	z-index: 1;
+}
+
+.top-bar {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.brand, .logo {
+	width: 79px;
+	height: 28px;
+}
+
+.titles {
+	text-align: center;
+	color: #ffffff;
+}
+
+.titles .page-title {
+	font-size: 40px;
+	font-style: italic;
+	text-align: center;
+	font-weight: normal;
+	margin-bottom: 50px;
+}
+
+.titles .encourage-title {
+	font-size: 75px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-bottom: 59px;
+}
+
+.titles  .btn {
+	display: inline-block;
+}
+
+/********
+* MENU
+********/
+
+.menu {
+	display: flex;
+	list-style-type: none;
+}
+
+.menu li a {
+	display: block;
+	padding: 55px 20px;
+	color:  #ffffff;
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: background-color .25s ease-in-out;
+}
+
+.menu li a:hover {
+	background-color: rgba(255, 255, 255, .35);
+}
+
+/********
+* SERVICES
+********/
+
+.services {
+}
+
+.service {
+	text-align: center;
+}
+
+.service img {
+	width: 68px;
+	height: 68px;
+}
+
+.service .service-title {
+	font-family: Montserrat, serif;
+	font-size: 20px;
+	font-weight: 700;
+	margin: 20px 0;
+}
+
+.service .service-body {
+	color:  #777777;
+	font-size: 14px;
+	font-weight: 400;
+	max-width: 274px;
+	margin: 0 auto;
+}
+
+/**********
+COMPONENTS
+**********/
+
+/** LAND **/
+.land {
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+
+.land-title {
+	color:  #222222;
+	font-family: Montserrat, serif;
+	font-size: 40px;
+	font-weight: 700;
+	text-align: center;
+	margin: 0 0 20px 0;
+	text-transform: uppercase;
+}
+
+.land-subtitle {
+	font-family: "Droid Serif", serif;
+	color:  #777777;
+	font-style: italic;
+	text-align: center;
+	margin-bottom: 80px;
+}
+
+/** BUTTON **/
+.btn {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	padding: 25px 49px;
+	text-transform: uppercase;
+}
+
+a.btn {
+	text-decoration: none;
+}
+
+.btn-primary {
+	background-color: #fed136;
+}
+
+.btn-primary, a.btn-primary {
+	color: #ffffff;
+}
+
+/** TRIPTYCH **/
+.triptych {
+	display: flex;
+}
+
+.triptych .triptych-item {
+	flex: 0 0 calc(100%/3);
+}
+
+ul.triptych {
+	list-style-type: none;
+}
