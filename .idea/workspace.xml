@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9174152-2f65-4e9e-91f2-d2b2c060c245" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blue-template/blue-template.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blue-template/blue-template.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dark-template/dark-template.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dark-template/dark-template.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/golden-template/golden-template.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/golden-template/golden-template.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/images/branding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/images/header-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/images/how_i_work.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/images/illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/images/ux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/styles/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-template/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,59 +20,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golden-template/index.html">
+        <entry file="file://$PROJECT_DIR$/dark-template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-              <folding>
-                <element signature="n#li#0;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dark-template/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web-security.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golden-template/images/web-security.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golden-template/styles/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="droid_serif.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid_serif/droid_serif.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="314">
+              <caret line="217" column="19" lean-forward="true" selection-start-line="217" selection-start-column="19" selection-end-line="217" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -91,6 +53,9 @@
         <option value="$PROJECT_DIR$/golden-template/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dark-template/style.css" />
+        <option value="$PROJECT_DIR$/dark-template/index.html" />
+        <option value="$PROJECT_DIR$/dark-template/styles/style.css" />
       </list>
     </option>
   </component>
@@ -115,8 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,51 +90,53 @@
             <path>
               <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="blue-template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="dark-template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="dark-template" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="golden-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creer-son-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creer-son-portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="golden-template" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates/dark-template" />
-      <recent name="$PROJECT_DIR$/templates/golden-template" />
-      <recent name="$PROJECT_DIR$/templates/blue-template" />
-      <recent name="$PROJECT_DIR$/golden-template/images" />
-      <recent name="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dark-template/styles" />
       <recent name="$PROJECT_DIR$/golden-template/fonts" />
       <recent name="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts" />
       <recent name="$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit" />
       <recent name="$PROJECT_DIR$/golden-template/images" />
-      <recent name="$PROJECT_DIR$/golden-template/styles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dark-template/images" />
+      <recent name="$PROJECT_DIR$/dark-template/styles" />
+      <recent name="$PROJECT_DIR$/templates/dark-template" />
+      <recent name="$PROJECT_DIR$/templates/golden-template" />
+      <recent name="$PROJECT_DIR$/templates/blue-template" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,38 +183,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530252886342</updated>
-      <workItem from="1530252889142" duration="4053000" />
+      <workItem from="1530252889142" duration="4467000" />
+      <workItem from="1530712195931" duration="5402000" />
     </task>
+    <task id="LOCAL-00001" summary="Add templates. Add README. Remove idea files.">
+      <created>1530257251082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530257251083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4053000" />
+    <option name="totallyTimeSpent" value="9869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32917705" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917705" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32917705" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,46 +232,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add templates. Add README. Remove idea files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add templates. Add README. Remove idea files." />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/droidserif_bold_macroman/specimen_files/grid_12-825-55-15.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golden-template/images/ecommerce.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid_serif/droid_serif.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golden-template/images/responsive-web.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golden-template/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golden-template/images/web-security.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/golden-template/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="345">
           <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -315,10 +257,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/images/web-security.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid_serif/droid_serif.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/droidserif_bold_macroman/specimen_files/grid_12-825-55-15.css" />
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid-serif-fontfacekit/droid-serif-fontfacekit-2/web fonts/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/golden-template/images/ecommerce.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/fonts/droid_serif/droid_serif.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/images/responsive-web.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/images/web-security.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golden-template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dark-template/styles/normalize.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dark-template/images/branding.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dark-template/images/ux.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dark-template/images/illustration.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dark-template/images/header-background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dark-template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dark-template/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="217" column="19" lean-forward="true" selection-start-line="217" selection-start-column="19" selection-end-line="217" selection-end-column="19" />
         </state>
       </provider>
     </entry>

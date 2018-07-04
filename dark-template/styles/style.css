@@ -1,0 +1,235 @@
+/** GLOBAL **/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Dosis", sans-serif;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+/** ATOMIC **/
+.land {
+    height: 100vh;
+    padding: 150px 0;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.divider {
+    border: 1px solid #748092;
+    opacity: 0.2;
+}
+
+/** GRID */
+.grid {
+    display: flex;
+    margin-left: -75px;
+    margin-right: -75px;
+}
+
+.grid .grid {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-bottom {
+    align-items: flex-end;
+}
+
+.grid [class*="col-"] {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.grid .grid [class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.col-33 {
+    flex: 0 0 calc(100%/3);
+}
+
+.col-50 {
+    flex: 0 0 50%;
+}
+
+/** HEADER **/
+.header {
+    background: #000 url(../images/header-background.png) no-repeat center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.header .container {
+    width: 100%;
+}
+
+.header-title {
+    font-size: 30px;
+}
+
+.header-title span {
+    display: block;
+    color: #f0c620;
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: .20em;
+    text-shadow: 12px 22px 20px rgba(0, 0, 0, 0.45), 12px 22px 30px rgba(0, 0, 0, 0.75);
+}
+
+.header .header-subtitle span {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -2px;
+    margin-left: 15px;
+}
+
+.header a {
+    color: #ffffff;
+}
+
+/** NAV **/
+.nav {
+    position: fixed;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/** ABOUT */
+.about h2,
+.about .skills h3 {
+    font-family: "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+}
+
+.about .skills  h3 {
+    color:  rgba(116, 128, 146, 0.3);
+    font-size: 20px;
+    text-align: center;
+}
+
+.about .skills img {
+    display: block;
+    height: 140px;
+    margin: 0 auto;
+}
+
+.about .description h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 65px;
+}
+
+.about .description p {
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 0.75px;
+    line-height: 40px;
+    text-align: justify;
+}
+
+.about hr {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.about .buttons {
+    margin-top: 50px;
+}
+
+.about .how-i-work img {
+    margin-top: 50px;
+}
+
+/** BUTTONS */
+.buttons .button {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 12px;
+}
+
+.button {
+    font-family: Dosis, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #f0c620;
+    padding: 13px 24px;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+
+/** MENU */
+ul.menu {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.menu li a {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    width: 20px;
+    text-align: center;
+    color:  #e7e7e7;
+}
+
+.menu li a span {
+    position: absolute;
+    left: 9999px;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.menu li a:hover span {
+    left: auto;
+    right: 0;
+    padding-right: 30px;
+    color: #f0c620;
+}
+
+.menu li a:hover:after {
+    background-color: #f0c620;
+}
+
+.menu li a:after {
+    position: relative;
+    content: "";
+    display: inline-block;
+    vertical-align: center;
+    border-radius: 50%;
+    background-color:  #e7e7e7;
+    width: 12px;
+    height: 12px;
+    transition: background-color .25s ease-in-out;
+}
